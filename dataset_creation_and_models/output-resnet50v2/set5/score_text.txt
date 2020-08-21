@@ -1,0 +1,1 @@
+Score for set5: loss of 0.29601043462753296; accuracy of 90.92790484428406%

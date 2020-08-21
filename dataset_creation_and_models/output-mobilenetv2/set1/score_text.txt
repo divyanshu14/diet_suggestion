@@ -1,0 +1,1 @@
+Score for set1: loss of 0.25249364972114563; accuracy of 91.65229201316833%
