@@ -1,3 +1,4 @@
+#importing necessary libraries
 from rest_framework.response import Response
 from tensorflow.keras.preprocessing import image
 from django.views.decorators.csrf import csrf_exempt
